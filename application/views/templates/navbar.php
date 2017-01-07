@@ -13,28 +13,44 @@
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-left">
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="kegiatan.html">Kegiatan</a>
+                    </li>
+                    <li>
+                        <a href="struktur.html">Struktur</a>
+                    </li>
+                    <li>
+                        <a href="visi.html">Visi & Misi</a>
+                    </li>
+
+
+                    <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-plus"></i> <b class="caret"></b></a>
+                    <ul class="dropdown-menu alert-dropdown">
+
+                        <li>
+                            <a href="tentang.html">Tentang Kampus</a>
+                        </li>
+                        <li>
+                            <a href="saran.html">Kritik & Saran</a>
+                        </li>
+
+                    </ul>
+                </li>
+
+
+                </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="home">Home</a>
+                        <a href="pendaftaran.html">Pendaftaran</a>
                     </li>
                     <li>
-                        <a href="kegiatan">Kegiatan</a>
+                        <a href="login.html">login</a>
                     </li>
-                    <li>
-                        <a href="struktur">Struktur</a>
-                    </li>
-                    <li>
-                        <a href="visi">Visi & Misi</a>
-                    </li>
-                    <li>
-                        <a href="tentang">Tentang Kampus</a>
-                    </li>
-                    <li>
-                        <a href="register">Pendaftaran</a>
-                    </li>
-                    <li>
-                        <a href="login">login</a>
-                   	</li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->

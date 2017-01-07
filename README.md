@@ -1,5 +1,6 @@
 # pweb
 1. clone or download
-2. Masukkan kedalam folder pweb
-3. simpan kedalam xamp/htdoc untuk melihat di localhost
-4. localhost/pweb
+2. Buat folder bernama pweb
+3. Masukkan kedalam folder pweb
+4. simpan kedalam xamp/htdoc 
+5. buka browser link ke localhost/pweb

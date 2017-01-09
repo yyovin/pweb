@@ -25,7 +25,7 @@
                         <i class="fontaw fa fa-bell fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Info Uang Kas</h4>
-                    <p class="text-muted">Nah guys ini kata yang agak sedikit horror untuk beberapa orang, disini karena kita akan aktif melakukan berbagai kegiatan. Dan tentu saja itu tidak menggunakan dana kecil, nah disinilah uang kas berfungsi sebagai tambahan dana dalam kegiatan kita. Sehingga kita tidak merasa terbebani dengan adanya biaya kegiatan. So guys kami tekan disni kami tidak mengambil keuntungan dari dana yang kalian berikan namun akan digunakan dalam berbagai kegiatan terutama dalam baksos. Biaya kas yang diberikan sebesar 
+                    <p class="text-muted">Nah guys ini kata yang agak sedikit horror untuk beberapa orang, disini karena kita akan aktif melakukan berbagai kegiatan. Dan tentu saja itu tidak menggunakan dana kecil, nah disinilah uang kas berfungsi sebagai tambahan dana dalam kegiatan kita. Sehingga kita tidak merasa terbebani dengan adanya biaya kegiatan. So guys kami tekan disni kami tidak mengambil keuntungan dari dana yang kalian berikan namun akan digunakan dalam berbagai kegiatan terutama dalam baksos. Biaya kas yang diberikan sebesar
                     <b> Rp 25.000/bulan </b></p>
                 </div>
                 <div class="col-md-4">
@@ -47,7 +47,7 @@
                         <thead>
                             <tr>
                                 <th>Tanggal</th>
-                                <th>Acara</th>             
+                                <th>Acara</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -82,6 +82,8 @@
         </div>
     </section>
 
-   
-
-   
+  <section id="services">
+        <div class="container">
+<script id="cid0020000144762715768" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 777px;height: 346px;">{"handle":"boddhivijja","arch":"js","styles":{"a":"CC0000","b":100,"c":"FFFFFF","d":"FFFFFF","k":"CC0000","l":"CC0000","m":"CC0000","n":"FFFFFF","p":"10","q":"CC0000","r":100,"surl":0,"cnrs":"0.35"}}</script>
+        </div>
+      </section>

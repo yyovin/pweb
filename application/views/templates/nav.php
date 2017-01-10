@@ -23,22 +23,26 @@
                     <li>
                         <a href="struktur">Struktur</a>
                     </li>
-                    <li>
-                        <a href="visi">Visi & Misi</a>
-                    </li>
+                    <li class="btn-group">
+                      <a class="btn" href="visi">Visi & Misi</a>
+                      <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+                        <span class="glyphicon glyphicon-hand-down" title="Toggle dropdown menu"></span>
+                      </a>
+                      <ul class="dropdown-menu">
+                        <li><a href="saran">
+                        <span class="glyphicon glyphicon-pencil"></span> Saran & Kritik 
+                        </a></li>  
+                      </ul>
+                    </li>                    
                     <li>
                         <a href="tentang">Tentang Kampus</a>
-                    </li>
-                    <li>
-                        <a href="saran">Saran & Kritik</a>
-                    </li>                     
+                    </li>                  
                     <li>
                         <a href="pendaftaran">Pendaftaran</a>
                     </li>
                     <li>
                         <a href="login">login</a>
                     </li>
-                </ul>
             </div>
             <!-- /.navbar-collapse -->
         </div>

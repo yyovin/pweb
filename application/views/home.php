@@ -51,20 +51,36 @@
                             </tr>
                         </thead>
                         <tbody>
-                            <?php foreach($planning as $u){ ?>
                             <tr>
-                                <td><?php echo $u->tanggal ?></td>
-                                <td><?php echo $u->acara ?></td>
+                                <td>5 November 2015</td>
+                                <td>Bodhivijja on Vacation</td>
                             </tr>
-                            <?php } ?>
+                            <tr>
+                                <td>3 Desember 2015</td>
+                                <td>Hari Ibu (Kunjungan Panti Jompo)</td>
+                            </tr>
+                            <tr>
+                                <td>15 February 2016</td>
+                                <td>Magha Puja (Seminar)</td>
+                            </tr>
+                            <tr>
+                                <td>1 Mei 2016</td>
+                                <td>Waisak (Kunjungan Panti Asuhan)</td>
+                            </tr>
+                            <tr>
+                                <td>28 Juni 2016</td>
+                                <td>Asadha (Seminar Dhamma)</td>
+                            </tr>
+                            <tr>
+                                <td>15 Oktober 2016</td>
+                                <td>Kathina</td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
             </div>
         </div>
     </section>
-
- 
 
    
 

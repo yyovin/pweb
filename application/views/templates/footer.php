@@ -1,8 +1,3 @@
-    <div class="col-md-10 col-md-push-1">
-        <hr>
-        <p> <a href="loginadmin">Admin</a></p>
-    </div>
-    
  <!-- jQuery -->
     <script src="assets/vendor/jquery/jquery.min.js"></script>
 

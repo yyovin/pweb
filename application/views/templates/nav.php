@@ -30,14 +30,17 @@
                         <a href="tentang">Tentang Kampus</a>
                     </li>
                     <li>
+                        <a href="saran">Saran & Kritik</a>
+                    </li>                     
+                    <li>
                         <a href="pendaftaran">Pendaftaran</a>
                     </li>
                     <li>
                         <a href="login">login</a>
-                   	</li>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
         </div>
         <!-- /.container-fluid -->
-    </nav>
+</nav>

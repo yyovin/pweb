@@ -6,6 +6,7 @@ class Home extends CI_Controller {
 	function __construct(){
 		parent::__construct();		
 		$this->load->model('m_data');
+        $this->load->helper('url');
 	}
 
 	public function index()
@@ -16,4 +17,5 @@ class Home extends CI_Controller {
 		$this->load->view('home',$data);
 		$this->load->view('templates/footer.php');
 	}
+
 }

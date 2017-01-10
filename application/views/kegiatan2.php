@@ -16,7 +16,8 @@
                                 <th>Tanggal</th>
                                 <th>Jam</th>
                                 <th>Tempat</th>
-                                <th>Acara</th>             
+                                <th>Acara</th> 
+                                <th>Action</th>            
                             </tr>
                             <?php 
                             $no = 1;
@@ -27,12 +28,17 @@
                                 <td><?php echo $u->jam ?></td>
                                 <td><?php echo $u->tempat ?></td>
                                 <td><?php echo $u->acara ?></td>
+                                <td>
+                                      <?php echo anchor('kegiatan2'.$u->id,'Edit'); ?>
+                                                  <?php echo anchor('kegiatan2/hapus/'.$u->id,'Hapus'); ?>
+                                </td>
                             </tr>
                             <?php } ?>
                         </thead>
                     </table>
                 </div>
-                  
+                
+                        <a href="http://localhost/pweb/kegiatan2/tambah"><button >tambah</button></a> 
             </div>
     </section>
 

@@ -1,4 +1,4 @@
-    <!-- Header -->
+	    <!-- Header -->
     <header>
         <div class="container">
             <div class="intro-text">
@@ -47,7 +47,8 @@
                         <thead>
                             <tr>
                                 <th>Tanggal</th>
-                                <th>Acara</th>             
+                                <th>Acara</th> 
+                                <th>Action</th>             
                             </tr>
                         </thead>
                         <tbody>
@@ -55,11 +56,17 @@
                             <tr>
                                 <td><?php echo $u->tanggal ?></td>
                                 <td><?php echo $u->acara ?></td>
+                                <td>
+                                      <?php echo anchor('home2/edit/'.$u->id,'Edit'); ?>
+                                                  <?php echo anchor('home2/hapus/'.$u->id,'Hapus'); ?>
+                                </td>
                             </tr>
                             <?php } ?>
+                            
                         </tbody>
                     </table>
                 </div>
+                            <a href="http://localhost/pweb/home2/tambah"><button >tambah</button></a> 
             </div>
         </div>
     </section>
@@ -69,3 +76,4 @@
    
 
    
+

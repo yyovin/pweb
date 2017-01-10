@@ -1,8 +1,10 @@
     <div class="col-md-10 col-md-push-1">
         <hr>
-        <p> <a href="loginadmin">Admin</a></p>
+        <a href="<?php echo base_url('login/logout'); ?>">Logout</a>
+        <br>
     </div>
-    
+
+    </div>
  <!-- jQuery -->
     <script src="assets/vendor/jquery/jquery.min.js"></script>
 

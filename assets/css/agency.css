@@ -743,3 +743,328 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #fed136;
 }
+
+.fb-container {
+  width: 280px;
+  height: 250px;
+  overflow: hidden;
+  border: 1px solid #00437A;
+}
+.fb-container > div {
+  margin: -1px 0px 0px -1px;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+.fb_iframe_widget {
+  display: inline-block;
+  position: relative;
+}
+body.plugin {
+  background: transparent;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.28;
+  overflow: hidden;
+  -moz-text-size-adjust: none;
+}
+._li._li._li {
+  overflow: initial;
+}
+._2lqh {
+  width: 100%;
+}
+._1drm {
+  background: #fff;
+  overflow: hidden;
+  position: relative;
+}
+.uiScaledImageContainer {
+  position: relative;
+  overflow: hidden;
+}
+.uiScaledImageContainer .scaledImageFitWidth {
+  height: auto;
+  width: 100%;
+}
+.uiScaledImageContainer img {
+  height: 100%;
+  min-height: 100%;
+  position: relative;
+}
+img {
+  border: 0;
+}
+._1drm ._1dro {
+  bottom: 40px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 1;
+}
+._2ph- {
+  padding: 8px;
+}
+.clearfix::after {
+  clear: both;
+  content: ".";
+  display: block;
+  font-size: 0;
+  height: 0;
+  line-height: 0;
+  visibility: hidden;
+}
+
+._2zfs {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, .7) 0%, rgba(0, 0, 0, 0) 100%);
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+}
+._3-8_ {
+  margin-right: 4px;
+}
+.lfloat {
+  float: left;
+}
+a {
+  color: #365899;
+  cursor: pointer;
+  -moz-outline-style: none;
+  text-decoration: none;
+}
+._1drm._1ds3 ._1drn {
+  border: 2px solid #fff;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, .5);
+}
+._1drm ._1drn {
+  border: 1px solid #000;
+}
+._1drm._1ds3 ._1drp, ._1drm._1ds3 ._1drq, ._1drm._1ds3 ._1drq ._2tnv {
+  color: #fff;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, .9);
+}
+._1dro ._1drp {
+  color: #365899;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.358;
+  margin-bottom: -5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+._1drm._1ds3 ._1drp, ._1drm._1ds3 ._1drq, ._1drm._1ds3 ._1drq ._2tnv {
+  color: #fff;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, .9);
+}
+._1dro ._1drq {
+  color: #1d2129;
+  font-size: 12px;
+  line-height: 1.358;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+._1drm ._1z7u {
+  bottom: 0;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  right: 0;
+  z-index: 2;
+}
+._2ph- {
+  padding: 8px;
+}
+._42ft::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+*::-moz-placeholder, :-moz-placeholder {
+  color: #90949c;
+}
+._4jy0::before {
+  content: '';
+  display: inline-block;
+  height: 20px;
+  vertical-align: middle;
+}
+.sp_xOlIFEVne2M {
+  background-image: url(/rsrc.php/v3/yT/r/81mGaCLzC3W.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 16px;
+  width: 16px;
+}
+._3-8_ {
+  margin-right: 4px;
+}
+.pluginConnectButton a._opd {
+  color: #90949c;
+}
+.pluginConnectButton a._opc, form.async_saving a._opc {
+  margin: 0;
+  opacity: 1;
+}
+._4o5p .pluginConnectButtonConnected, ._4o5p .pluginConnectButtonDisconnected, ._4o5q button {
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, .12);
+}
+.gecko ._4jy0 {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+._4jy3, ._4jy3._42fr:active, ._4jy3._42fr._42fs {
+  line-height: 22px;
+}
+._517h, ._59pe:focus, ._59pe:hover {
+  background-color: #f6f7f9;
+  border-color: #ced0d4;
+  color: #4b4f56;
+}
+._4jy0 {
+  border: 1px solid;
+  border-radius: 2px;
+  box-sizing: content-box;
+  font-size: 12px;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: bold;
+  padding: 0 8px;
+  position: relative;
+  text-align: center;
+  text-shadow: none;
+  vertical-align: middle;
+}
+._42ft {
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.pluginConnectButton a._opd {
+  color: #90949c;
+}
+._4jy0 {
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: none;
+}
+._42ft {
+  cursor: pointer;
+  white-space: nowrap;
+}
+.rfloat {
+  float: right;
+}
+._29bd, ._29bd:hover {
+  text-decoration: none;
+}
+._4o5p .pluginConnectButtonConnected, ._4o5p .pluginConnectButtonDisconnected, ._4o5q button {
+  background-clip: padding-box;
+  border: 1px solid rgba(0, 0, 0, .12);
+}
+.plugin, .plugin button, .plugin input, .plugin label, .plugin select, .plugin td, .plugin textarea {
+  font-size: 11px;
+}
+._4jy3, ._4jy3._42fr:active, ._4jy3._42fr._42fs {
+  line-height: 22px;
+}
+._517h, ._59pe:focus, ._59pe:hover {
+  background-color: #f6f7f9;
+  border-color: #ced0d4;
+  color: #4b4f56;
+}
+._4jy0 {
+  border: 1px solid;
+  border-radius: 2px;
+  box-sizing: content-box;
+  font-size: 12px;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: bold;
+  padding: 0 8px;
+  position: relative;
+  text-align: center;
+  text-shadow: none;
+  vertical-align: middle;
+}
+._42ft {
+  cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
+  white-space: nowrap;
+}
+button {
+  margin: 0;
+}
+._2lqg {
+  background: #f6f7f9;
+  border: 1px solid #e9ebee;
+  border-top: 0;
+  overflow-y: auto;
+}
+._2lqg > div {
+  box-sizing: border-box;
+  height: 100%;
+  position: relative;
+  width: 100%;
+}
+._h7n {
+  background: #fff;
+  border-color: #e9ebee #dfe0e4 #d0d1d5;
+  border-radius: 2px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, .12);
+  position: relative;
+}
+._57i_ {
+  color: #4b4f56;
+  line-height: 1.358;
+  margin-bottom: 2px;
+}
+._50f3 {
+  font-size: 12px;
+  line-height: 16px;
+}
+#facebook .hidden_elem {
+  display: none !important;
+}
+._43qc ._4cg3 {
+  margin-top: -1px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.pluginFacepileConnectFirst, .pluginFacepileConnectConnected .pluginFacepileConnectLast {
+  display: none !important;
+}
+
+._509- > li {
+  vertical-align: top;
+}
+._43qc ._43q7 {
+  margin: 1px 1px 0 0;
+}
+.pluginFacepileConnectLast, .pluginFacepileConnectConnected .pluginFacepileConnectFirst {
+  animation: show .4s;
+  display: inline-block !important;
+}
+.uiList > li:first-child {
+  border-width: 0;
+}
+._57j2 ._57j3 li {
+  margin-right: 2px;
+  margin-top: 2px;
+}
+._4ki > li {
+  border-width: 0 0 0 1px;
+  display: inline-block;
+}
